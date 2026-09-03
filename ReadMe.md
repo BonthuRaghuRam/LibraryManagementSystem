@@ -108,7 +108,5 @@ search type just means writing a new class — no changes needed in `Library`.
   crash or a confusing error at the very end.
 
 ## Class Diagram
+[img.png](img.png)
 
-![img.png](img.png)
-
-(Add class diagram here)
