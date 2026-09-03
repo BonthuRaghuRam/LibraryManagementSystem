@@ -2,7 +2,7 @@
 
 This is a simple Java program to manage a library.
 It lets you add books, add patrons (members), search books,
-check out books, return books, and reserve books.
+check out books, return books, and reserve books  .
 
 It is built to show good Java skills: OOP, SOLID rules, and design patterns.
 
